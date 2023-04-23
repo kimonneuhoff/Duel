@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-11">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/nicoo/Documents/New Vintex Workspace/API.jar"/>
+	<classpathentry kind="lib" path="C:/Users/nicoo/Documents/New Vintex Workspace/CloudySpigot.jar"/>
+	<classpathentry kind="lib" path="C:/Users/nicoo/Documents/New Vintex Workspace/LibsDisguises-10.0.26-Free.jar"/>
+	<classpathentry kind="lib" path="C:/Users/nicoo/Documents/New Vintex Workspace/Sentinel-2.3.5-SNAPSHOT-b424.jar"/>
+	<classpathentry kind="lib" path="C:/Users/nicoo/Documents/New Vintex Workspace/spigot-1.16.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/nicoo/Documents/New Vintex Workspace/Citizens-2.0.29-b2430.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

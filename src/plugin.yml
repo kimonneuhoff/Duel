@@ -1,0 +1,6 @@
+name: Duel
+author: Symnatic
+version: 1.0
+main: net.vintex.duel.Main
+
+api-version: 1.16
